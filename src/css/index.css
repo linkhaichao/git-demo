@@ -1,0 +1,15 @@
+body {
+  width: 100%;
+  height: 100%;
+  font-size: 14px;
+}
+body h2 {
+  color: red;
+}
+body {
+  background: url("../img/11.png") no-repeat;
+}
+body h2 {
+  font-size: 20px;
+  color: yellow;
+}
